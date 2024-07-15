@@ -7,9 +7,9 @@
         "Save restricted content",
         "bot"
     ],
-    "repository": "https://github.com/vasusen-code/SaveRestrictedContentBot",
+    "repository": "https://t.me/SGBACKUP",
     "website": "",
-    "success_url": "https://t.me/DroneBots",
+    "success_url": "https://t.me/SGBACKUP",
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
@@ -41,7 +41,7 @@
             "url": "heroku/python"
         },
         {
-            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+            "url": "https://t.me/SGBACKUP"
         }
     ]
 }
