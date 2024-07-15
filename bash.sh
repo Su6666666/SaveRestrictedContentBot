@@ -1,2 +1,2 @@
-echo "starting Bot ~@DroneBots";
+echo "starting Bot ~@SGBACKUP";
 python3 -m main
